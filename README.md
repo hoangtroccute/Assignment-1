@@ -1,9 +1,7 @@
+# CS303 Assignment 1 (Raw Arrays + Exceptions)
 #Bean Nguyen
 #CS303
 #Assignment 1
-
-# CS303 Assignment 1 (Raw Arrays + Exceptions)
-
 ## Files
 - `ArrayOps.h` — function declarations
 - `ArrayOps.cpp` — function definitions
