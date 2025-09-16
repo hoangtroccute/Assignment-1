@@ -13,7 +13,7 @@ int loadFromFile(const std::string& path, int arr[], int capacity) {
     int x, count = 0;
     while (in >> x) {
         if (count >= capacity) {
-            // stop loading if capacity reached—could also throw if you prefer
+            // stop loading if capacity reachedâ€”could also throw
             break;
         }
         arr[count++] = x;
